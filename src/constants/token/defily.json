@@ -1,0 +1,189 @@
+{
+  "name": "Defily Default List",
+  "timestamp": "2021-07-23T22:16:42.627Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "/tokens/dfl.png",
+  "keywords": ["defily", "default"],
+  "tokens": [
+    {
+      "name": "WKAI Token",
+      "symbol": "WKAI",
+      "address": "0xAF984E23EAA3E7967F3C5E007fbe397D8566D23d",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "Defily",
+      "symbol": "DFL",
+      "address": "0xD675fF2B0ff139E14F86D87b7a6049ca7C66d76e",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "DRAGON",
+      "symbol": "DRAGON",
+      "address": "0x18f4f7A1fa6F2c93d40d4Fd83c67E93B88d3a0b1",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "KUSD",
+      "symbol": "KUSD-T",
+      "address": "0x92364Ec610eFa050D296f1EEB131f2139FB8810e",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "name": "VNDC",
+      "symbol": "VNDC",
+      "address": "0xeFF34B63f55200a9D635B8ABBBFCC719b4977864",
+      "chainId": 1,
+      "decimals": 0
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x551A5dcAC57C66aA010940c2dcFf5DA9c53aa53b",
+      "chainId": 1,
+      "decimals": 6
+    },
+    {
+      "name": "Ether",
+      "symbol": "ETH",
+      "address": "0x1540020a94aA8bc189aA97639Da213a4ca49d9a7",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "Lucky Property Development Invest Token",
+      "symbol": "LPDi",
+      "address": "0x32a6bD9800276be19050bd97459A7a36B26bD899",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "BECO",
+      "symbol": "BECO",
+      "address": "0x2Eddba8b949048861d2272068A94792275A51658",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "BossDoge",
+      "symbol": "BossDoge",
+      "address": "0x5995F16246DfA676A44B8bD7E751C1226093dcd7",
+      "chainId": 1,
+      "decimals": 9
+    },
+    {
+      "name": "LTD",
+      "symbol": "LTD",
+      "address": "0xf631BdC21A77AFAc69B9B3e966E85d7fBcf00b1f",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "My DeFi Pet Token",
+      "symbol": "DPET",
+      "address": "0xfb62AE373acA027177D1c18Ee0862817f9080d08",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "BamiToken",
+      "symbol": "BAMI",
+      "address": "0xC0884cCE945fCf7F3AE4471B5A16d83065D35c31",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "sleepearn.finance",
+      "symbol": "SEN",
+      "address": "0xb697231730C004110A86f51BfF4B8DD085c0CB28",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "VNDC International Digital Banking",
+      "symbol": "VIDB",
+      "address": "0x75b9d2A0007A6866e32Ac0A976FeF60ccA151f87",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "name": "Big Digital Shares",
+      "symbol": "BDS",
+      "address": "0x72b7181bd4a0B67Ca7dF2c7778D8f70455DC735b",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "name": "Vietnam Gold Token",
+      "symbol": "CHI",
+      "address": "0xf8bB30c912a46f57F2B499111cb536dB13A044c3",
+      "chainId": 1,
+      "decimals": 3
+    },
+    {
+      "name": "WhiteHub",
+      "symbol": "WHC",
+      "address": "0xC40926e9f3935D00629d26D025c84384F79f3842",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "name": "Trustpay Token",
+      "symbol": "TPH",
+      "address": "0xc1c319434bd861A335752b4b6993C13f139B26fa",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "name": "Nami Corporation",
+      "symbol": "NAMI",
+      "address": "0xA43B455F935A7f4184B5B8Aa345e22DbA3bBb286",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "Kephi Token",
+      "symbol": "KPHI",
+      "address": "0x6CD689DefCA80f9F2CBED9D0C6f3B2Cf4abc4598",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "VNDT",
+      "symbol": "VNDT",
+      "address": "0xCc0595e6a76da207CCaDf8DC7cF548Af0fF8E22b",
+      "chainId": 1,
+      "decimals": 8
+    },
+    {
+      "name": "Chat Token",
+      "symbol": "CHAT",
+      "address": "0x274064d87952e4782150396153b50b1ab3a81Ca2",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "xCHAT",
+      "symbol": "xCHAT",
+      "address": "0x3d255696Fe96cA5EeD3e16cF25AB3301EbCC2f98",
+      "chainId": 1,
+      "decimals": 18
+    },
+    {
+      "name": "GetDone Token",
+      "symbol": "GDT",
+      "address": "0x865Fa6A9DeE299De618A06729DC9e5f7d02055E3",
+      "chainId": 1,
+      "decimals": 18
+    }
+  ]
+}
